@@ -4,6 +4,12 @@ Shared Qt Widgets library for the dsviper Python ecosystem. Provides the
 common dialogs, views, and helpers used by `dsviper-tools` (cdbe, dbe,
 …) and `ge-py` (graph editor).
 
+## Documentation
+
+Full documentation: https://docs.digitalsubstrate.io/dsviper-components/
+
+Part of the [DevKit ecosystem](https://docs.digitalsubstrate.io/).
+
 ## Architectural position
 
 Sits above the runtime layer. Consumes the public API of:
