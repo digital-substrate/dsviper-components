@@ -2,7 +2,7 @@
 # library for the dsviper Python ecosystem.
 
 # dsviper runtime + Python binding (used by ds_settings.py and others)
-dsviper>=1.2.10
+dsviper>=1.2.15
 
 # Qt UI framework. Pinned to guarantee reproducible regeneration of
 # dsviper_components/ui_*.py and resources_rc.py via dev/build.py —
