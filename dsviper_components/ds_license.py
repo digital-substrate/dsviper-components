@@ -13,7 +13,7 @@ from PySide6.QtWidgets import (
     QWidget,
 )
 
-VERSION = "1.2"
+VERSION = "1.2.1"
 COPYRIGHT = "Copyright (c) 2026 Digital Substrate"
 LICENSE_ID = "MIT"
 
