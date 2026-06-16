@@ -8,6 +8,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This version line is the library's own; it is independent from the
 `dsviper` runtime version, which is tracked separately as a dependency.
 
+## [1.2.2] - 2026-06-16
+
+### Added
+- `show_about_dialog` accepts an optional `version` parameter, letting each
+  consuming application display its own version instead of the library's.
+
 ## [1.2.1] - 2026-06-16
 
 ### Fixed
