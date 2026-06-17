@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This version line is the library's own; it is independent from the
 `dsviper` runtime version, which is tracked separately as a dependency.
 
+## [Unreleased]
+
+_No changes yet. Bug fixes for the next 1.2.x patch release will be listed here._
+
 ## [1.2.0] - 2026-06-17
 
 First standalone release of the shared Qt Widgets component library for the
