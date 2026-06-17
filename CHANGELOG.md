@@ -16,6 +16,6 @@ Database / CommitDatabase tooling.
 ### Added
 - Qt Widgets components and dialogs for browsing and administering a
   Database / CommitDatabase.
-- Runs on Python 3.10–3.14.
+- Runs on Python 3.10–3.14; requires dsviper >= 1.2.16.
 - `show_about_dialog` accepts an optional `version` argument so consuming
   applications can display their own version.
