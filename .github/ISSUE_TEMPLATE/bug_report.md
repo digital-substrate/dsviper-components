@@ -12,7 +12,7 @@ labels: bug
 
 ## Environment
 - dsviper-components commit/version:
-- Consumer repo and version (dsviper-tools / ge-py / other):
+- Consumer repo and version (dsviper-tools / dsviper-ge / other):
 - Python version:
 - PySide6 version:
 - dsviper version:

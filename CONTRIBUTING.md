@@ -11,7 +11,7 @@ Use [GitHub Issues](https://github.com/digital-substrate/dsviper-components/issu
 1. Fork the repository and create a feature branch from `main`
 2. Make your changes (see "Running locally" below)
 3. After modifying any `.ui` or `resources.qrc`, regenerate with `python dev/build.py`
-4. Verify a downstream consumer still imports cleanly — typically by running `cdbe`, `dbe` (from [`dsviper-tools`](https://github.com/digital-substrate/dsviper-tools)) or `graph_editor` (from [`ge-py`](https://github.com/digital-substrate/ge-py)) against your local checkout
+4. Verify a downstream consumer still imports cleanly — typically by running `cdbe`, `dbe` (from [`dsviper-tools`](https://github.com/digital-substrate/dsviper-tools)) or `graph_editor` (from [`dsviper-ge`](https://github.com/digital-substrate/dsviper-ge)) against your local checkout
 5. Open a pull request with a clear description of what changed and why
 
 ## Running locally

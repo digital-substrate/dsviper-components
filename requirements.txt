@@ -8,5 +8,5 @@ dsviper>=1.2.23
 # dsviper_components/ui_*.py and resources_rc.py via dev/build.py —
 # different pyside6-uic versions silently produce different generated
 # files (phantom diffs). Must match the version pinned by consumers
-# (dsviper-tools, ge-py).
+# (dsviper-tools, dsviper-ge).
 PySide6==6.10.1

@@ -2,7 +2,7 @@
 
 Shared Qt Widgets library for the dsviper Python ecosystem. Provides the
 common dialogs, views, and helpers used by `dsviper-tools` (cdbe, dbe,
-…) and `ge-py` (graph editor).
+…) and `dsviper-ge` (graph editor).
 
 ## Documentation
 
