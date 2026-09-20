@@ -19,8 +19,7 @@ Use [GitHub Issues](https://github.com/digital-substrate/dsviper-components/issu
 Requires Python 3.14+ and PySide6.
 
 ```bash
-pip install -r requirements.txt          # PySide6 and deps
-pip install dsviper                      # Viper Python binding
+pip install -r requirements.txt          # PySide6, the dsviper binding and deps
 python dev/build.py                      # generate ui_*.py and resources_rc.py
 ```
 
