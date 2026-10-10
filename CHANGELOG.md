@@ -10,7 +10,10 @@ This version line is the library's own; it is independent from the
 
 ## [Unreleased]
 
-_No changes yet. Bug fixes for the next 1.2.x patch release will be listed here._
+### Fixed
+
+- **The commits view enables Delete on a head again.** It compared the method `commit_id` with
+  the head ids instead of calling it, so the button never enabled.
 
 ## [1.2.0] - 2026-06-17
 
