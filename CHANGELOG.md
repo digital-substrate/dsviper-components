@@ -15,6 +15,12 @@ This version line is the library's own; it is independent from the
 - **The commits view enables Delete on a head again.** It compared the method `commit_id` with
   the head ids instead of calling it, so the button never enabled.
 
+### Changed
+
+- **Requires `dsviper >= 1.2.31`**, the first binding to name the Commit opcodes and programs
+  `CommitOpcode*` and `CommitProgram`, which the commit-program views read; earlier wheels call
+  them `ValueOpcode*` and `ValueProgram`.
+
 ## [1.2.0] - 2026-06-17
 
 First standalone release of the shared Qt Widgets component library for the
